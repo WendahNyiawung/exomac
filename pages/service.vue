@@ -9,7 +9,7 @@
 
         <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/headerservice.jpg" />
 
-        <ServiceWrapper />
+        <!-- <ServiceWrapper /> -->
 
         <TheFooter />
 
@@ -23,9 +23,8 @@
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
-            ServiceWrapper: () => import('@/components/ServiceWrapper'),
             SuccessStory: () => import('@/components/SuccessStory'),
-            ServiceWrapper: () => import('@/components/serviceWrapper'),
+            // ServiceWrapper: () => import('@/components/serviceWrapper'),
             AboutFour: () => import('@/components/AboutFour'),
             FunfactWithTitle: () => import('@/components/FunfactWithTitle'),
             ContactSectionTwo: () => import('@/components/ContactSectionTwo'),
