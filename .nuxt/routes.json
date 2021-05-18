@@ -3,42 +3,36 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_02886a8a"
+    "chunkName": "pages/about"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
     "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\contact-us.vue",
-    "chunkName": "pages/contact-us",
-    "_name": "_35e69f2d"
+    "chunkName": "pages/contact-us"
   },
   {
     "name": "home-two",
     "path": "/home-two",
     "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\home-two.vue",
-    "chunkName": "pages/home-two",
-    "_name": "_3e14d5c0"
+    "chunkName": "pages/home-two"
   },
   {
     "name": "project",
     "path": "/project",
     "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\project.vue",
-    "chunkName": "pages/project",
-    "_name": "_06fbdec7"
+    "chunkName": "pages/project"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\service.vue",
-    "chunkName": "pages/service",
-    "_name": "_67dfa73a"
+    "chunkName": "pages/service"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_1e73a580"
+    "chunkName": "pages/index"
   }
 ]

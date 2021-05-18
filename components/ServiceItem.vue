@@ -1,14 +1,14 @@
 <template>
     <div class="icon-box text-center" :class="addClassName">
-        <div class="icon">
+        <!-- <div class="icon">
             <img class="svgInject" :src="service.iconSrc" :alt="service.title">
-        </div>
+        </div> -->
         <div class="content">
             <h3 class="title">{{ service.title }}</h3>
-            <div class="desc">
+            <div class="desc" style="text-align:left">
                 <p>{{ service.text }}</p>
             </div>
-            <n-link to="/project-details" class="link">Learn More</n-link>
+            <!-- <n-link to="/project-details" class="link">Learn More</n-link> -->
         </div>
     </div>
 </template>
