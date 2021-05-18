@@ -1,4 +1,5 @@
 export default {
+    target: 'static',
 
     generate: {
         fallback: true
@@ -64,8 +65,11 @@ export default {
     build: {
         extend (config, ctx) {
         },
+         babel: { compact: true }
     },
+
     static: {
         prefix: false
     }
+    
 }

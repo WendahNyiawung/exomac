@@ -11,7 +11,7 @@
                 <div class="col mt-30" v-for="(project, index) in projectData" :key="index">
                     <div class="work">
                         <div class="thumbnail">
-                            <n-link to="/project-details" class="image">
+                            <!-- <n-link to="/project-details" class="image"> -->
                                 <img :src="project.imgSrc" :alt="project.title">
                             </n-link>
                         </div>
