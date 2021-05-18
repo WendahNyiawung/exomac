@@ -7,9 +7,9 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/headerservice.jpg" />
+        <BreadcrumbOne :items="items" title="" backgroundUrl= "/images/bg/headerservice.jpg" />
 
-        <!-- <ServiceWrapper /> -->
+        <ServiceWrapper />
 
         <TheFooter />
 
@@ -35,7 +35,7 @@
             return {
                 items: [
                     {
-                        text: 'Home',
+                        text: 'Accueil',
                         to: "/"
                     },
                     {

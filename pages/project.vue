@@ -35,11 +35,11 @@
             return {
                 items: [
                     {
-                        text: 'Home',
+                        text: 'Accueil',
                         to: "/"
                     },
                     {
-                        text: 'Project',
+                        text: 'Projet',
                         active: true
                     }
                 ]

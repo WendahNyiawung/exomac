@@ -44,11 +44,11 @@
             return {
                 items: [
                     {
-                        text: 'Home',
+                        text: 'Accueil',
                         to: "/"
                     },
                     {
-                        text: 'Contact Us',
+                        text: 'Contacte',
                         active: true
                     }
                 ]
