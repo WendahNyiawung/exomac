@@ -65,4 +65,7 @@ export default {
         extend (config, ctx) {
         },
     },
+    static: {
+        prefix: false
+    }
 }
