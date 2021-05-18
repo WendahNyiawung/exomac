@@ -40,11 +40,11 @@
             return {
                 items: [
                     {
-                        text: 'Home',
+                        text: 'Accueil',
                         to: "/"
                     },
                     {
-                        text: 'About Us',
+                        text: 'A propos',
                         active: true
                     }
                 ]
