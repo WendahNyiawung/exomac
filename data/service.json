@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "RENFORCEMENT DES CAPACITÉS",
+        "text": "Les Communes font face à un réel défi de développement des ressources humaines, gage de la performance. En effet un exécutif communal efficace et motivée est essentiel à la bonne gouvernance, à ",
+        "iconSrc": "/images/svg/linea/linea-basic-target.svg"
+    },
+    {
+        "id": 2,
+        "title": "APPUI TECHNIQUE A LA PLANIFICATION, MATURATION ET EXECUTION DES PROJETS",
+        "text": "RC3D met son expertise au service d’appui des CTD à la mise en œuvre des diagnostics communautaires, ainsi que l’élaboration des plans de développement.",
+        "iconSrc": "/images/svg/linea/linea-basic-target.svg"
+    },
+    {
+        "id": 3,
+        "title": "APPUI AU DÉVELOPPEMENT DES PARTENARIATS",
+        "text": "Dans l’optique de promouvoir le développement des Collectivités Territoriales Décentralisées (CTD), l’ONG internationale RC3D, avec le soutien de ses partenaires canadiens organise chaque année au Canada ",
+         "iconSrc": "/images/svg/linea/linea-basic-target.svg"
+    },
+    {
+        "id": 4,
+        "title": "APPUI À L’INFORMATIQUE ET A LA COMMUNICATION",
+        "text": "Il s’agit ici de la Construction, mise à jour et maintenance des sites web dynamiques des organismes. Spécifiquement, c’est un vaste programme d’amélioration de la visibilité des communes et autres organisations locales sur le plan national et international.",
+         "iconSrc": "/images/svg/linea/linea-basic-target.svg"
+    },
+    {
+        "id": 5,
+        "title": "APPUI A LA RESTRUCTURATION ET AU DEVELOPPEMENT DES ASSOCIATIONS LOCALES",
+        "text": "En vue d’un meilleur accompagnement des associations locales, nous contribuons à la conception du répertoire des associations et organisations à base communautaire au sein des Communes partenaires ; nous élaborons des plans stratégiques et manuels de procédures de gestion ; nous  Étudions et montons des projets associatifs",
+         "iconSrc": "/images/svg/linea/linea-basic-target.svg"
+    }
+   
+]
