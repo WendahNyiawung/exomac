@@ -3,8 +3,9 @@
 /*----------------------------------------*/
 
 .footer-section {
-    padding: 20px 0px;
+    padding: 5px 0px;
     overflow: hidden;
+    height: 310px;
     // Responsive
     @media #{$tablet-device}{
         padding: 80px 0 0px;
@@ -16,9 +17,9 @@
 
 .copyright {
     font-size: 14px;
-    line-height: 25px;
+    line-height: 20px;
     text-align: center;
-    padding: 20px 15px;
+    padding: 2px 5px;
     border-top: 1px solid $gray-200;
     color: $white;
     margin-bottom: 0;

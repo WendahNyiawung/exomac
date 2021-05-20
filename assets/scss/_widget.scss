@@ -169,13 +169,13 @@
 }
 
 .footer-logo{
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .footer-widget-title {
     font-size: 18px;
     color: $white;
-    margin-bottom: 17px;
+    margin-bottom: 2px;
 }
 
 .footer-widget-content {
@@ -184,7 +184,7 @@
     color: $gray-100;
 
     & p {
-        margin-bottom: 5px;
+        margin-bottom: 2px;
         color: $gray-100;
         font-family: $link-font;
 
@@ -200,7 +200,7 @@
         list-style: none;
 
         & li {
-            margin-bottom: 5px;
+            margin-bottom: 2px;
             padding-right: 20px;
             a{
                 font-size: 16px;
@@ -233,13 +233,13 @@
 .footer-social-inline {
     display: flex;
     flex-wrap: wrap;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-right: -10px;
-    margin-bottom: -10px;
+    // margin-bottom: -5px;
 
     & a {
         margin-right: 10px;
-        margin-bottom: 10px;
+        margin-bottom: 2px;
         color: $gray-100;
 
         & i {

@@ -33,7 +33,7 @@
                 <!-- Footer Widget End -->
 
                 <!-- Footer Widget Start -->
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6 mt-30">
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6 ">
                     <!-- <div class="footer-widget">
                         <h4 class="footer-widget-title">{{ footerData.footerLinkTitleOne }}</h4>
                         <div class="footer-widget-content">
@@ -53,7 +53,7 @@
                          
                         </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6 mt-30">
+                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6">
                     <!-- <div class="footer-widget">
                         <h4 class="footer-widget-title">{{ footerData.footerLinkTitleOne }}</h4>
                         <div class="footer-widget-content">

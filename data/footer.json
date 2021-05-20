@@ -2,7 +2,8 @@
     "footerAboutWidget": {
         "logoSrc": "/images/logo/logo.png",
         "location":"Siège de RC3D : Cameroun-Yaoundé-Rue Montée Bastos",
-        "pobox":"BP : 35637 Tel: +237 243 008 581  / 665 869 997",
+        "pobox":"BP : 35637 ",
+        "tel":"+237 243 008 581  / 665 869 997",
         "WhatsApp": "+237 690 05 26 54",
         "email": "contact@rc3d.org",
         "fbUrl": "#",
