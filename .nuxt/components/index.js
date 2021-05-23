@@ -18,6 +18,7 @@ export { default as ContactSectionOne } from '../..\\components\\ContactSectionO
 export { default as ContactSectionTwo } from '../..\\components\\ContactSectionTwo.vue'
 export { default as FaqOne } from '../..\\components\\FaqOne.vue'
 export { default as FeatureOne } from '../..\\components\\FeatureOne.vue'
+export { default as Footer } from '../..\\components\\Footer.vue'
 export { default as FunfactWithTitle } from '../..\\components\\FunfactWithTitle.vue'
 export { default as FunFcat } from '../..\\components\\FunFcat.vue'
 export { default as HeroFixedBanner } from '../..\\components\\HeroFixedBanner.vue'
@@ -65,6 +66,7 @@ export const LazyContactSectionOne = import('../..\\components\\ContactSectionOn
 export const LazyContactSectionTwo = import('../..\\components\\ContactSectionTwo.vue' /* webpackChunkName: "components_ContactSectionTwo" */).then(c => c.default || c)
 export const LazyFaqOne = import('../..\\components\\FaqOne.vue' /* webpackChunkName: "components_FaqOne" */).then(c => c.default || c)
 export const LazyFeatureOne = import('../..\\components\\FeatureOne.vue' /* webpackChunkName: "components_FeatureOne" */).then(c => c.default || c)
+export const LazyFooter = import('../..\\components\\Footer.vue' /* webpackChunkName: "components_Footer" */).then(c => c.default || c)
 export const LazyFunfactWithTitle = import('../..\\components\\FunfactWithTitle.vue' /* webpackChunkName: "components_FunfactWithTitle" */).then(c => c.default || c)
 export const LazyFunFcat = import('../..\\components\\FunFcat.vue' /* webpackChunkName: "components_FunFcat" */).then(c => c.default || c)
 export const LazyHeroFixedBanner = import('../..\\components\\HeroFixedBanner.vue' /* webpackChunkName: "components_HeroFixedBanner" */).then(c => c.default || c)

@@ -18,7 +18,7 @@
 
         <SkillWithVideo />
 
-        <!-- <TheFooter /> -->
+        <TheFooter />
 
     </div>
 </template>

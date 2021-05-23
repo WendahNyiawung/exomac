@@ -19,7 +19,7 @@
         <SkillWithVideo />
 
 
-        <!-- <TheFooter /> -->
+        <Footer />
 
     </div>
 </template>
@@ -40,7 +40,7 @@
             TestimonialSectionOne: () => import('@/components/TestimonialSectionOne'),
             BlogSectionOne: () => import('@/components/BlogSectionOne'),
             ContactSectionOne: () => import('@/components/ContactSectionOne'),
-            TheFooter: () => import('@/components/TheFooter'),
+            Footer: () => import('@/components/Footer'),
         },
 
         head() {

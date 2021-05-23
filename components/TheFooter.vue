@@ -1,8 +1,8 @@
 <template>
-    <div class="footer-section" :style="{backgroundColor: '#030e22'}">
-        <div class="container">
+    <div class="footer-section" :style="{backgroundColor: '#030e22',}" style="height:fit-content">
+        <div class="container" >
             <!-- Footer Top Widgets Start -->
-            <div class="row section-padding pt-0 mtn-30">
+            <div class="row section-padding pt-0 mtn-30" style="margin-bottom:10px">
                 <!-- Footer Widget Start -->
                 <div class="col-md-4 col-sm-6 col-12 mt-30">
                     <div class="footer-widget">
@@ -44,7 +44,7 @@
                             </ul>
                         </div>
                     </div> -->
-                       <div class="footer-widget-content" style="margin-top:4rem">
+                       <div class="" style="margin-top:4rem">
                             <div class="content">
                               
                                 <p><a href="">{{ footerData.footerAboutWidget.pobox }}</a></p>

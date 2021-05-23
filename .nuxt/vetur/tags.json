@@ -119,6 +119,12 @@
   "LazyFeatureOne": {
     "description": "Auto imported from components/FeatureOne.vue"
   },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
   "FunfactWithTitle": {
     "description": "Auto imported from components/FunfactWithTitle.vue"
   },
