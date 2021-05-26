@@ -10,9 +10,9 @@
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30">
                 <div class="col mt-30" data-aos="fade-up" v-for="(feature, index) in features" :key="index">
                     <div class="icon-box text-center" :class="addClassName">
-                        <div class="icon">
+                        <!-- <div class="icon">
                             <img class="svgInject" :src="feature.iconSrc" :alt="feature.title">
-                        </div>
+                        </div> -->
                         <div class="content">
                             <!-- <h3 class="title">{{ feature.title }}</h3> -->
                             <div class="desc">
