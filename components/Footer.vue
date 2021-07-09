@@ -50,7 +50,7 @@
        <!-- Footer Copyright Start -->
             <div class="row copyright">
                 <div class="col">
-                    <p class="mt-2">Copyright &copy; 2021 <a href="#">RC3D</a>. All Rights Reserved.</p>
+                    <p class="mt-2">Copyright &copy; 2021 <a href="#">mercury-tech</a>. All Rights Reserved.</p>
                 </div>
             </div>
             <!-- Footer Copyright End -->

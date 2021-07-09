@@ -10,7 +10,7 @@
                     </div>
                     <!-- Section Title End -->
                     <div class="contact-form">
-                        <form>
+                        <form name="contact" method="POST" data-netlify="true">
                             <div class="row mtn-30">
                                 <div class="col-md-6 col-12 mt-30">
                                     <input type="text" placeholder="votre nom *" name="name">

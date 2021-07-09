@@ -25,7 +25,7 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Appelez-nous</h4>
-                            <span class="info-text"> 237 665 869 997 <br> +237 690 05 26 54 <br>  <a href="mailto:demo@example.com" style="color:#fff;">demo@example.com</a></span>
+                            <span class="info-text"> 237 222 25 20 86 <br> +237 654 81 03 86 <br> +237 690 05 26 54 </span>
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                         <div class="info">
                             <h4 class="title">bureau d'aide</h4>
                             <span class="info-text">
-                                <a href="mailto:contact@rc3d.org">contact@rc3d.org</a>
+                                <a href="mailto:agencecreasarl@gmail.com">agencecreasarl@gmail.com</a>
                                 <br>
                                 <a href="mailto:demo@example.com" style="color:#fff;">demo@example.com</a>
                                 <a href="mailto:demo@example.com" style="color:#fff;">demo@example.com</a>

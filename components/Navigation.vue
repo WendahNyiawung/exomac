@@ -8,7 +8,7 @@
                 <n-link to="/about"> A Propos</n-link>
             </li>
             <li>
-                <n-link to="/project">Nos Réalision & archives</n-link>
+                <n-link to="/project">Nos Réalision & actions</n-link>
             </li>
             <li>
                 <n-link to="/service">Nos Programme et Services</n-link>
@@ -30,6 +30,15 @@
             </li> -->
             <li>
                 <n-link to="#"> Contexte et Justiification</n-link>
+            </li>
+            <li>
+                <n-link to="#"> Publications</n-link>
+            </li>
+            <li>
+                <n-link to="#"> Testimonial</n-link>
+            </li>
+            <li>
+                <n-link to="#"> Gallerie</n-link>
             </li>
              <li class="">
                 <n-link to="/contact-us">Contact</n-link>
