@@ -16,6 +16,7 @@ export { default as CallToActionVideo } from '../..\\components\\CallToActionVid
 export { default as ContactForm } from '../..\\components\\ContactForm.vue'
 export { default as ContactSectionOne } from '../..\\components\\ContactSectionOne.vue'
 export { default as ContactSectionTwo } from '../..\\components\\ContactSectionTwo.vue'
+export { default as EventWrapper } from '../..\\components\\EventWrapper.vue'
 export { default as FaqOne } from '../..\\components\\FaqOne.vue'
 export { default as FeatureOne } from '../..\\components\\FeatureOne.vue'
 export { default as Footer } from '../..\\components\\Footer.vue'
@@ -37,6 +38,8 @@ export { default as SectionTitle } from '../..\\components\\SectionTitle.vue'
 export { default as ServiceItem } from '../..\\components\\ServiceItem.vue'
 export { default as ServiceWrapper } from '../..\\components\\ServiceWrapper.vue'
 export { default as ShapeWithAnimation } from '../..\\components\\ShapeWithAnimation.vue'
+export { default as SingleEventWrapper } from '../..\\components\\SingleEventWrapper.vue'
+export { default as SingleEventWrapper2 } from '../..\\components\\SingleEventWrapper2.vue'
 export { default as SkillWithVideo } from '../..\\components\\SkillWithVideo.vue'
 export { default as SuccessStory } from '../..\\components\\SuccessStory.vue'
 export { default as TeamMember } from '../..\\components\\TeamMember.vue'
@@ -64,6 +67,7 @@ export const LazyCallToActionVideo = import('../..\\components\\CallToActionVide
 export const LazyContactForm = import('../..\\components\\ContactForm.vue' /* webpackChunkName: "components_ContactForm" */).then(c => c.default || c)
 export const LazyContactSectionOne = import('../..\\components\\ContactSectionOne.vue' /* webpackChunkName: "components_ContactSectionOne" */).then(c => c.default || c)
 export const LazyContactSectionTwo = import('../..\\components\\ContactSectionTwo.vue' /* webpackChunkName: "components_ContactSectionTwo" */).then(c => c.default || c)
+export const LazyEventWrapper = import('../..\\components\\EventWrapper.vue' /* webpackChunkName: "components_EventWrapper" */).then(c => c.default || c)
 export const LazyFaqOne = import('../..\\components\\FaqOne.vue' /* webpackChunkName: "components_FaqOne" */).then(c => c.default || c)
 export const LazyFeatureOne = import('../..\\components\\FeatureOne.vue' /* webpackChunkName: "components_FeatureOne" */).then(c => c.default || c)
 export const LazyFooter = import('../..\\components\\Footer.vue' /* webpackChunkName: "components_Footer" */).then(c => c.default || c)
@@ -85,6 +89,8 @@ export const LazySectionTitle = import('../..\\components\\SectionTitle.vue' /* 
 export const LazyServiceItem = import('../..\\components\\ServiceItem.vue' /* webpackChunkName: "components_ServiceItem" */).then(c => c.default || c)
 export const LazyServiceWrapper = import('../..\\components\\ServiceWrapper.vue' /* webpackChunkName: "components_ServiceWrapper" */).then(c => c.default || c)
 export const LazyShapeWithAnimation = import('../..\\components\\ShapeWithAnimation.vue' /* webpackChunkName: "components_ShapeWithAnimation" */).then(c => c.default || c)
+export const LazySingleEventWrapper = import('../..\\components\\SingleEventWrapper.vue' /* webpackChunkName: "components_SingleEventWrapper" */).then(c => c.default || c)
+export const LazySingleEventWrapper2 = import('../..\\components\\SingleEventWrapper2.vue' /* webpackChunkName: "components_SingleEventWrapper2" */).then(c => c.default || c)
 export const LazySkillWithVideo = import('../..\\components\\SkillWithVideo.vue' /* webpackChunkName: "components_SkillWithVideo" */).then(c => c.default || c)
 export const LazySuccessStory = import('../..\\components\\SuccessStory.vue' /* webpackChunkName: "components_SuccessStory" */).then(c => c.default || c)
 export const LazyTeamMember = import('../..\\components\\TeamMember.vue' /* webpackChunkName: "components_TeamMember" */).then(c => c.default || c)

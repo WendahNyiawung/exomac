@@ -3,7 +3,7 @@
         <div class="header-inner">
             <div class="container position-relative">
                 <div class="row justify-content-between align-items-center">
-
+                    <script src="//unpkg.com/vue2-scrollspy/dist/index.js"></script>
                     <!-- Header Logo Start -->
                     <div class="col-xl-2 col-auto order-0">
                         <div class="header-logo">

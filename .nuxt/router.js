@@ -3,12 +3,15 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _02886a8a = () => interopDefault(import('..\\pages\\about.vue' /* webpackChunkName: "pages/about" */))
-const _35e69f2d = () => interopDefault(import('..\\pages\\contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
-const _3e14d5c0 = () => interopDefault(import('..\\pages\\home-two.vue' /* webpackChunkName: "pages/home-two" */))
-const _06fbdec7 = () => interopDefault(import('..\\pages\\project.vue' /* webpackChunkName: "pages/project" */))
-const _67dfa73a = () => interopDefault(import('..\\pages\\service.vue' /* webpackChunkName: "pages/service" */))
-const _1e73a580 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _391c1bba = () => interopDefault(import('..\\pages\\about.vue' /* webpackChunkName: "pages/about" */))
+const _1168d8c5 = () => interopDefault(import('..\\pages\\contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
+const _352af2b0 = () => interopDefault(import('..\\pages\\event.vue' /* webpackChunkName: "pages/event" */))
+const _33374194 = () => interopDefault(import('..\\pages\\fia.vue' /* webpackChunkName: "pages/fia" */))
+const _9d362860 = () => interopDefault(import('..\\pages\\focodevv.vue' /* webpackChunkName: "pages/focodevv" */))
+const _4a6954b8 = () => interopDefault(import('..\\pages\\home-two.vue' /* webpackChunkName: "pages/home-two" */))
+const _d27467a2 = () => interopDefault(import('..\\pages\\project.vue' /* webpackChunkName: "pages/project" */))
+const _5bda19cb = () => interopDefault(import('..\\pages\\service.vue' /* webpackChunkName: "pages/service" */))
+const _0329cce8 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
 const emptyFn = () => {}
@@ -28,27 +31,39 @@ export const routerOptions = {
 
   routes: [{
     path: "/about",
-    component: _02886a8a,
+    component: _391c1bba,
     name: "about"
   }, {
     path: "/contact-us",
-    component: _35e69f2d,
+    component: _1168d8c5,
     name: "contact-us"
   }, {
+    path: "/event",
+    component: _352af2b0,
+    name: "event"
+  }, {
+    path: "/fia",
+    component: _33374194,
+    name: "fia"
+  }, {
+    path: "/focodevv",
+    component: _9d362860,
+    name: "focodevv"
+  }, {
     path: "/home-two",
-    component: _3e14d5c0,
+    component: _4a6954b8,
     name: "home-two"
   }, {
     path: "/project",
-    component: _06fbdec7,
+    component: _d27467a2,
     name: "project"
   }, {
     path: "/service",
-    component: _67dfa73a,
+    component: _5bda19cb,
     name: "service"
   }, {
     path: "/",
-    component: _1e73a580,
+    component: _0329cce8,
     name: "index"
   }],
 

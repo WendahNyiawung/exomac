@@ -2,43 +2,64 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\about.vue",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\about.vue",
     "chunkName": "pages/about",
-    "_name": "_02886a8a"
+    "_name": "_391c1bba"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\contact-us.vue",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\contact-us.vue",
     "chunkName": "pages/contact-us",
-    "_name": "_35e69f2d"
+    "_name": "_1168d8c5"
+  },
+  {
+    "name": "event",
+    "path": "/event",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\event.vue",
+    "chunkName": "pages/event",
+    "_name": "_352af2b0"
+  },
+  {
+    "name": "fia",
+    "path": "/fia",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\fia.vue",
+    "chunkName": "pages/fia",
+    "_name": "_33374194"
+  },
+  {
+    "name": "focodevv",
+    "path": "/focodevv",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\focodevv.vue",
+    "chunkName": "pages/focodevv",
+    "_name": "_9d362860"
   },
   {
     "name": "home-two",
     "path": "/home-two",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\home-two.vue",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\home-two.vue",
     "chunkName": "pages/home-two",
-    "_name": "_3e14d5c0"
+    "_name": "_4a6954b8"
   },
   {
     "name": "project",
     "path": "/project",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\project.vue",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\project.vue",
     "chunkName": "pages/project",
-    "_name": "_06fbdec7"
+    "_name": "_d27467a2"
   },
   {
     "name": "service",
     "path": "/service",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\service.vue",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\service.vue",
     "chunkName": "pages/service",
-    "_name": "_67dfa73a"
+    "_name": "_5bda19cb"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_1e73a580"
+    "_name": "_0329cce8"
   }
 ]

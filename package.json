@@ -22,6 +22,7 @@
         "vue-awesome-swiper": "^4.1.0",
         "vue-silentbox": "^2.2.0",
         "vue-typer": "^1.2.0",
+        "vue3-scroll-spy": "^1.0.8",
         "vuejs-paginate": "^2.1.0"
     },
     "devDependencies": {

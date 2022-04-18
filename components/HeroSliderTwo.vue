@@ -12,7 +12,7 @@
                                         <p>{{ banner.text }}</p>
                                     </div>
                                     <!-- <n-link to="/about" class="btn btn-primary btn-hover-secondary">Commencer</n-link> -->
-                                    <n-link to="/about" class="btn btn-outline-white btn-hover-primary">Apprendre encore plus</n-link>
+                                    <n-link to="/about" class="btn btn-outline-white btn-hover-primary">Inscrivez vous a la FIA | FOCODEVV 2022</n-link>
                                 </div>
                             </div>
                         </div>
@@ -75,6 +75,18 @@
                         heading: " APPUI À L’INFORMATIQUE ET A LA COMMUNICATION",
                         text: "Nous améliorons la visibilité  les Communes et organismes à l’échelle internationale dans la conception, la maintenance de leurs sites web dynamiques ou statiques",
                         bgImgSrc: "/images/hero-image/4.jpg"
+                    },
+                     {
+                        id: 6,
+                        heading: " LE FOCODEVV 2022 | 7é EDITION",
+                        text: "La 7é édition du forum pour la cooperation decentraliséé et le developpement du 04 au 10 juin 2022 au Canada",
+                        bgImgSrc: "/images/event/focodevv.jpg"
+                    },
+                     {
+                        id: 7,
+                        heading: " LA FIA 2022 | 7é EDITION",
+                        text: "RIAA est l'unique platforme d'échanges, de promotion d'exellence et de partage des valeurs entre plusier acteurs à travers différentes activités. Du 04 au 10 juin 2022 au Canada",
+                        bgImgSrc: "/images/event/fia.jpg"
                     },
                 ]
             }
