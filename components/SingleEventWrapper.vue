@@ -17,16 +17,18 @@
                     <ServiceItem :service="service" addClassName="box-border" />
                 </div> -->
                 
-                <ul class="col col-sm-3" v-scroll-spy-active v-scroll-spy-link>
+                <div class="col col-sm-3" >
                   
-                    <li>
-                        <a>FOCODDEV 2022</a>
-                    </li>
-                    <li>
-                        <a>Conditions de participation</a>
-                    </li>
+                    <img src="/images/event/focodevv.jpg"  alt="" srcset="">
+                    
+                    <br>
+                    <br>
+                    <a target="_blank" href="https://docs.google.com/forms/d/15Umha2otJwpD13kYrTw8LJ7YITtzDnX1P2Io6JZNic8" class="btn btn-primary">S’inscrire ici (Francais)</a>
                    
-                </ul>
+                    <br>
+                    <br>
+                    <a  target="_blank" href="https://docs.google.com/forms/d/15Umha2otJwpD13kYrTw8LJ7YITtzDnX1P2Io6JZNic8"  class="btn btn-primary">S’inscrire ici (Anglais)</a>
+                </div>
 
                 <div class="col col-sm-7" v-scroll-spy>
                     
@@ -46,7 +48,6 @@
                         <p>
                             Les paiements peuvent se faire par virement bancaire, par Western Union ou par tout autre moyen. Ils donnent droit à la prise en charge totale de chaque participant pendant le FOCODDEV. Cette prise en charge comprend : l’accueil à l’aéroport, le transfert de l’aéroport au lieu de l’hébergement, l’hébergement et la nutrition, le transport inter urbain, la participation aux conférences et ateliers, la participation aux visites et aux rencontres d’affaires et au diner de clôture.
                         </p>
-                        <button class="btn btn-primary">S’inscrire ici</button>
                     </div>
                     <br>
                    

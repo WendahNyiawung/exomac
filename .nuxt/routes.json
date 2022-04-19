@@ -3,63 +3,54 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_391c1bba"
+    "chunkName": "pages/about"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
     "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\contact-us.vue",
-    "chunkName": "pages/contact-us",
-    "_name": "_1168d8c5"
+    "chunkName": "pages/contact-us"
   },
   {
     "name": "event",
     "path": "/event",
     "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\event.vue",
-    "chunkName": "pages/event",
-    "_name": "_352af2b0"
+    "chunkName": "pages/event"
   },
   {
     "name": "fia",
     "path": "/fia",
     "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\fia.vue",
-    "chunkName": "pages/fia",
-    "_name": "_33374194"
+    "chunkName": "pages/fia"
   },
   {
     "name": "focodevv",
     "path": "/focodevv",
     "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\focodevv.vue",
-    "chunkName": "pages/focodevv",
-    "_name": "_9d362860"
+    "chunkName": "pages/focodevv"
   },
   {
     "name": "home-two",
     "path": "/home-two",
     "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\home-two.vue",
-    "chunkName": "pages/home-two",
-    "_name": "_4a6954b8"
+    "chunkName": "pages/home-two"
   },
   {
     "name": "project",
     "path": "/project",
     "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\project.vue",
-    "chunkName": "pages/project",
-    "_name": "_d27467a2"
+    "chunkName": "pages/project"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\service.vue",
-    "chunkName": "pages/service",
-    "_name": "_5bda19cb"
+    "chunkName": "pages/service"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_0329cce8"
+    "chunkName": "pages/index"
   }
 ]

@@ -23,11 +23,11 @@
                     
                     <br>
                     <br>
-                    <button class="btn btn-primary">S’inscrire ici (Francais)</button>
+                    <a target="_blank" href="https://docs.google.com/forms/d/15Umha2otJwpD13kYrTw8LJ7YITtzDnX1P2Io6JZNic8" class="btn btn-primary">S’inscrire ici (Francais)</a>
                    
                     <br>
                     <br>
-                    <button class="btn btn-primary">S’inscrire ici (Anglais)</button>
+                    <a target="_blank" href="https://docs.google.com/forms/d/15Umha2otJwpD13kYrTw8LJ7YITtzDnX1P2Io6JZNic8" class="btn btn-primary">S’inscrire ici (Anglais)</a>
                 </div>
 
                 <div class="col col-sm-7" v-scroll-spy>

@@ -24,7 +24,7 @@
             SearchPopup: () => import('@/components/SearchPopup'),
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
             SuccessStory: () => import('@/components/SuccessStory'),
-            EventWrapper: () => import('@/components/EventWrapper'),
+            EventWrapper: () => import('@/components/SingleEventWrapper'),
             AboutFour: () => import('@/components/AboutFour'),
             FunfactWithTitle: () => import('@/components/FunfactWithTitle'),
             ContactSectionTwo: () => import('@/components/ContactSectionTwo'),

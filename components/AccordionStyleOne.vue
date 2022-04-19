@@ -21,7 +21,7 @@
                                 La 7ème édition du Forum pour la coopération décentralisée et le développement durable (FOCODDEV) aura lieu au Canada du 4 au 10 juin 2022. Il s’agit d’un événement organisé chaqu’année par le Réseau pour la Coopération décentralisée et le Développement Durable (RC3D). L’édition de cette année a pour thème « L’efficacité des jumelages et des partenariats Afrique-Canada : Enjeux, défis et réalisations. »
                                 <br>
                                 <br>
-                                <a href="" class="btn btn-primary">lire plus</a>
+                                <n-link to="/focodevv" class="btn btn-primary">lire plus</n-link>
                             </div>
                         </div>
                     </b-card-text>
