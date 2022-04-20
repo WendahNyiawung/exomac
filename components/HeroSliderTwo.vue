@@ -12,7 +12,7 @@
                                         <p>{{ banner.text }}</p>
                                     </div>
                                     <!-- <n-link to="/about" class="btn btn-primary btn-hover-secondary">Commencer</n-link> -->
-                                    <n-link to="/about" class="btn btn-outline-white btn-hover-primary">Inscrivez vous a la FIA | FOCODEVV 2022</n-link>
+                                    <n-link to="/event" class="btn btn-outline-white btn-hover-primary">Inscrivez vous a la FIA | FOCODEVV 2022</n-link>
                                 </div>
                             </div>
                         </div>
