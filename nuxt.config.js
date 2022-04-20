@@ -31,6 +31,7 @@ export default {
         '~/plugins/silentbox.js',
         '~/plugins/vuejs-paginate.js',
         '~/plugins/Mixitup.client.js',
+        '~/plugins/vue2-scrollspy.js',
         {
             src: "~/plugins/aos", 
             ssr: false 

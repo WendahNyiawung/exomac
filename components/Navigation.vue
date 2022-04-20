@@ -13,6 +13,7 @@
             <li>
                 <n-link to="/service">Nos Programme et Services</n-link>
             </li>
+            
            
             <!-- <li class="has-children">
                 <n-link to="/blog-grid">Blog</n-link>
@@ -28,18 +29,8 @@
                     </li>
                 </ul>
             </li> -->
-            <li>
-                <n-link to="#"> Contexte et Justiification</n-link>
-            </li>
-            <li>
-                <n-link to="#"> Publications</n-link>
-            </li>
-            <li>
-                <n-link to="#"> Testimonial</n-link>
-            </li>
-            <li>
-                <n-link to="#"> Gallerie</n-link>
-            </li>
+            
+   
              <li class="">
                 <n-link to="/contact-us">Contact</n-link>
                 <!-- <ul class="sub-menu">
@@ -50,6 +41,9 @@
                         <n-link to="/project-details">Project Details</n-link>
                     </li>
                 </ul> -->
+            </li>
+            <li>
+                <n-link to="/event" style="font-weight:bold; style:underline">FIA & FOCODEVV</n-link>
             </li>
            
         </ul>

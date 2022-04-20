@@ -107,6 +107,12 @@
   "LazyContactSectionTwo": {
     "description": "Auto imported from components/ContactSectionTwo.vue"
   },
+  "EventWrapper": {
+    "description": "Auto imported from components/EventWrapper.vue"
+  },
+  "LazyEventWrapper": {
+    "description": "Auto imported from components/EventWrapper.vue"
+  },
   "FaqOne": {
     "description": "Auto imported from components/FaqOne.vue"
   },
@@ -232,6 +238,18 @@
   },
   "LazyShapeWithAnimation": {
     "description": "Auto imported from components/ShapeWithAnimation.vue"
+  },
+  "SingleEventWrapper": {
+    "description": "Auto imported from components/SingleEventWrapper.vue"
+  },
+  "LazySingleEventWrapper": {
+    "description": "Auto imported from components/SingleEventWrapper.vue"
+  },
+  "SingleEventWrapper2": {
+    "description": "Auto imported from components/SingleEventWrapper2.vue"
+  },
+  "LazySingleEventWrapper2": {
+    "description": "Auto imported from components/SingleEventWrapper2.vue"
   },
   "SkillWithVideo": {
     "description": "Auto imported from components/SkillWithVideo.vue"

@@ -2,43 +2,55 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_02886a8a"
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\contact-us.vue",
-    "chunkName": "pages/contact-us",
-    "_name": "_35e69f2d"
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us"
+  },
+  {
+    "name": "event",
+    "path": "/event",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\event.vue",
+    "chunkName": "pages/event"
+  },
+  {
+    "name": "fia",
+    "path": "/fia",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\fia.vue",
+    "chunkName": "pages/fia"
+  },
+  {
+    "name": "focodevv",
+    "path": "/focodevv",
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\focodevv.vue",
+    "chunkName": "pages/focodevv"
   },
   {
     "name": "home-two",
     "path": "/home-two",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\home-two.vue",
-    "chunkName": "pages/home-two",
-    "_name": "_3e14d5c0"
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\home-two.vue",
+    "chunkName": "pages/home-two"
   },
   {
     "name": "project",
     "path": "/project",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\project.vue",
-    "chunkName": "pages/project",
-    "_name": "_06fbdec7"
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\project.vue",
+    "chunkName": "pages/project"
   },
   {
     "name": "service",
     "path": "/service",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\service.vue",
-    "chunkName": "pages/service",
-    "_name": "_67dfa73a"
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\service.vue",
+    "chunkName": "pages/service"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\Desmond\\\\Videos\\\\exomac\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_1e73a580"
+    "component": "C:\\\\Users\\\\Mercury\\\\Desktop\\\\mercury\\\\mercury-tech\\\\Business documentation\\\\Company departments\\\\Business development\\\\Customer Relationship Management\\\\clients\\\\RC3D\\\\project 01\\\\execution\\\\exomac\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]
